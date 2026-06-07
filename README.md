@@ -1,8 +1,8 @@
-<h2 align="left">Hi there 👋</h2>
+### Hi there 👋
 
-<p> I'm James, a full-stack developer based in the Philippines.
+I'm James, a full-stack developer based in the Philippines.
 
-<h2 align="left">Tech Stack</h2>
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />

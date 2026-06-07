@@ -1,22 +1,24 @@
 <h2 align="left">Hi there 👋</h2>
 
-###
-
-<p align="left">My name is James, passionate about building modern web and mobile applications with a focus on clean architecture, intuitive user experiences, and scalable solutions.<br><br>I enjoy turning ideas into well-crafted software while continuously exploring new technologies and development practices.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Turning ideas into software<br><br>📚 Currently learning:<br>- Next.js<br>- System Design<br>- Cloud Computing<br><br>🎯 Goals:<br>- Build high-quality software<br>- Master full-stack development<br>- Keep learning and improving<br><br>🎲 Fun fact:<br>I enjoy solving problems as much as building solutions.</p>
-
-###
+<pI'm James, a full-stack developer based in the Philippines.
+<br><br>
+I build web and mobile applications, turning ideas into products that people can actually use.
+<br><br>
+Most of my time is spent designing interfaces, building backend systems, and learning better ways to create scalable software.
+<br><br>
+My main tech stack is JavaScript, TypeScript, React, Next.js, Node.js, Flutter, and Laravel. My favorite tools are VS Code, Figma, Git, and Postman.
+<br><br>
+I've built projects ranging from management systems and portfolio websites to mobile applications and startup prototypes.
+<br><br>
+I'm constantly exploring software architecture, product development, and modern technologies to become a better engineer.
+<br><br>
+Fun Facts: <br>
+• I enjoy solving complex problems and turning them into simple solutions<br>
+• I can spend hours refining a UI until it feels right<br>
+• I love learning by building real projects<br>
+• Hobbies: coding, technology, filmmaking, and entrepreneurship</p><br><br>
 
 <h2 align="left">Tech Stack</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
@@ -53,5 +55,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
-
-###

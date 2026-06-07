@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋</h2>
 
-<pI'm James, a full-stack developer based in the Philippines.
+<p> I'm James, a full-stack developer based in the Philippines.
 <br><br>
 I build web and mobile applications, turning ideas into products that people can actually use.
 <br><br>

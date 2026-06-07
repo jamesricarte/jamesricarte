@@ -1,22 +1,6 @@
 <h2 align="left">Hi there 👋</h2>
 
 <p> I'm James, a full-stack developer based in the Philippines.
-<br><br>
-I build web and mobile applications, turning ideas into products that people can actually use.
-<br><br>
-Most of my time is spent designing interfaces, building backend systems, and learning better ways to create scalable software.
-<br><br>
-My main tech stack is JavaScript, TypeScript, React, Next.js, Node.js, Flutter, and Laravel. My favorite tools are VS Code, Figma, Git, and Postman.
-<br><br>
-I've built projects ranging from management systems and portfolio websites to mobile applications and startup prototypes.
-<br><br>
-I'm constantly exploring software architecture, product development, and modern technologies to become a better engineer.
-<br><br>
-Fun Facts: <br>
-• I enjoy solving complex problems and turning them into simple solutions<br>
-• I can spend hours refining a UI until it feels right<br>
-• I love learning by building real projects<br>
-• Hobbies: coding, technology, filmmaking, and entrepreneurship</p><br><br>
 
 <h2 align="left">Tech Stack</h2>
 

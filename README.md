@@ -42,4 +42,6 @@ I'm James, a full-stack developer based in the Philippines.
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" height="40" alt="expo logo"  />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" height="40" alt="docker logo"  />
 </div>
